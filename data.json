@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Koushik Ahmad ",
+    "img": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": "20-25",
+    "time": 30,
+    "action": "Semi-Automatic",
+    "price": 540
+  },
+  {
+    "id": 2,
+    "name": "Eleanor Hoffman",
+    "img": "https://www.shutterstock.com/image-photo/attractive-fit-young-man-stretching-260nw-173486585.jpg",
+    "age": "20-25",
+    "time": 30,
+    "action": "Semi-Automatic",
+    "price": 900
+  },
+  {
+    "id": 3,
+    "name": "Sherry Kuhn",
+    "img": "https://www.shutterstock.com/image-photo/caucasian-woman-practicing-yoga-seashore-260nw-142334290.jpg",
+    "age": "20-25",
+    "time": 30,
+    "action": "Semi-Automatic",
+    "price": 900
+  },
+  {
+    "id": 4,
+    "name": "Letitia Martinez",
+    "img": "https://images.pexels.com/photos/1431282/pexels-photo-1431282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "age": "20-25",
+    "time": 30,
+    "action": "Semi-Automatic",
+    "price": 1000
+  },
+  {
+    "id": 5,
+    "name": "Joan Barnes",
+    "img": "https://images.pexels.com/photos/791763/pexels-photo-791763.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "age": "20-25",
+    "time": 30,
+    "action": "Semi-Automatic",
+    "price": 1720
+  },
+  {
+    "id": 6,
+    "name": "Nathaniel Silva",
+    "img": "https://images.pexels.com/photos/3289711/pexels-photo-3289711.jpeg",
+    "age": "20-25",
+    "time": 30,
+    "action": "Semi-Automatic",
+    "price": 1900
+  }
+]
