@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Koushik Ahmad ",
-    "img": "web-development-02.gif",
+    "img": "https://raw.githubusercontent.com/koushik-ahmad/create-json-data/main/web-development-02.gif",
     "age": "20-25",
     "time": 30,
     "action": "Semi-Automatic",
